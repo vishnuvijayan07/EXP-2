@@ -55,7 +55,12 @@ Procedure for Load test:
 ![WhatsApp Image 2025-09-17 at 10 30 45_c4674d2e](https://github.com/user-attachments/assets/7f4dcbb5-ec1f-4c25-9d77-54d947cb1f79)
 ![WhatsApp Image 2025-09-17 at 10 30 45_f5a350a0](https://github.com/user-attachments/assets/a1e581cf-f447-4287-a569-b247aedace95)
 
-  
+  <img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/b0346d73-44a3-4dba-9b1f-d70301cac158" />
+<img width="1067" height="313" alt="image" src="https://github.com/user-attachments/assets/96395d38-dc08-48f3-b571-a34078c545bc" />
+
+
+<img width="1370" height="626" alt="image" src="https://github.com/user-attachments/assets/4395226d-7c9d-434a-9352-8df720a22892" />
+<img width="1373" height="463" alt="image" src="https://github.com/user-attachments/assets/40dd5e1a-f4f8-4517-9fd3-01d59f710850" />
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
