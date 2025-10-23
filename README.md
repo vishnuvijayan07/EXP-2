@@ -64,3 +64,5 @@ Procedure for Load test:
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
+done by:vishnu.v
+reg no:2501211
